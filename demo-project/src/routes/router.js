@@ -1,8 +1,8 @@
 import { createRouter, createWebHistory } from "vue-router"
-//import Tablas from "@/views/Tablas.vue";
+//import Home from "@/views/Home.vue";
 
 const routes = [
-    //{ path: '/', name: Tablas, component: Tablas }
+    //{ path: '/', name: home, component: Home }
 ]
 
 const router = createRouter({
