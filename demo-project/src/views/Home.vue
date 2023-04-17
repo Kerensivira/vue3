@@ -1,12 +1,13 @@
 <template>
-    <div id="tablas">
-        tablas
+    <div>
+        home
     </div>
 </template>
 
 <script setup>
 
-export default {
-   Tablas
-}
 </script>
+
+<style >
+    
+</style>
